@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44657826, g: 0.49641263, b: 0.57481676, a: 1}
+  m_IndirectSpecularColor: {r: 0.18028331, g: 0.2257133, b: 0.3069217, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -38491,6 +38491,7 @@ GameObject:
   - component: {fileID: 4310874759215861533}
   - component: {fileID: 4310874759228137308}
   - component: {fileID: 4310874759228137306}
+  - component: {fileID: 4310874759228137309}
   m_Layer: 6
   m_Name: FirstPersonCharacter
   m_TagString: MainCamera
@@ -38595,6 +38596,21 @@ MonoBehaviour:
   m_BeforeTransparentBundles: []
   m_BeforeStackBundles: []
   m_AfterStackBundles: []
+--- !u!114 &4310874759228137309
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4310874759228137305}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97450c597ef02864693e068490942cc8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  brightness: 1.2
+  saturation: 1.35
+  contrast: 1
 --- !u!33 &4367648731101909696
 MeshFilter:
   m_ObjectHideFlags: 0
