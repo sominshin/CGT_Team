@@ -2273,7 +2273,7 @@ GameObject:
   - component: {fileID: 629288109}
   - component: {fileID: 629288108}
   m_Layer: 0
-  m_Name: MInMap
+  m_Name: MinMap
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
