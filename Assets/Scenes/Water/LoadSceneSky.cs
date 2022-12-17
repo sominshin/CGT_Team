@@ -7,6 +7,6 @@ public class LoadSceneSky : MonoBehaviour
 {
     private void OnMouseDown()
     {
-        SceneManager.LoadScene("Sky");
+        SceneManager.LoadScene("sky");
     }
 }
