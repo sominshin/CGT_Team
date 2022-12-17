@@ -1,6 +1,11 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Scenes/Sky/Door pivot.controller.meta
 guid: f6edb9a77e13a6b46ae7b64f4d1477d0
 NativeFormatImporter:
+========
+guid: bfc401a16d438de498be934d79641f4e
+DefaultImporter:
+>>>>>>>> 4d36b14a127153d78afde9c5754504db31c78041:Assets/Scenes/Water/Fish - PolyPack/Scene/Showcase.unity.meta
   externalObjects: {}
   mainObjectFileID: 9100000
   userData: 
