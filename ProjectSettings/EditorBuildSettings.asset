@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Water/Water.unity
+    guid: 497b11132eb75044ea7a7434725b09a7
+  - enabled: 1
+    path: Assets/Scenes/Sky/sky.unity
+    guid: 68430d1ba70fd3d4aa4c54468567a6a2
+  - enabled: 1
+    path: Assets/Scenes/Ground/Ground.unity
+    guid: ee706b5f09d3e6a459af10c271799e30
   m_configObjects: {}
