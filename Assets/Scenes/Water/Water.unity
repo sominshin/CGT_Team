@@ -628,7 +628,8 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: "13. \uAC01 \uD300\uC6D0\uC740 \uC801\uC5B4\uB3C4 \uD558\uB098\uC758 3D
     \uC624\uBE0C\uC81D\uD2B8\uB97C \uC2A4\uD06C\uB9BD\uD2B8\uB85C \uAD6C\uD604\uD560
-    \uC218 \uC788\uB294\uAC00? (Vertex, Triangle, Normal, UV)\r-  Diamond.script\r\n\n"
+    \uC218 \uC788\uB294\uAC00? (Vertex, Triangle, Normal, UV)\r-  Diamond.script\r
+    - \uC2E0\uC18C\uBBFC\n\n"
 --- !u!222 &61058701
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -10092,8 +10093,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1576997155}
-  m_LocalRotation: {x: 0.061246492, y: 0.73247725, z: 0.06619581, w: -0.67479193}
-  m_LocalPosition: {x: 2071.634, y: 704.68823, z: 517.0669}
+  m_LocalRotation: {x: 0.06804359, y: 0.6936264, z: 0.06581295, w: -0.71408767}
+  m_LocalPosition: {x: 2066.375, y: 612.4096, z: 504.13177}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
