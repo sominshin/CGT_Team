@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.18028334, g: 0.22571328, b: 0.3069217, a: 1}
+  m_IndirectSpecularColor: {r: 0.18028331, g: 0.2257133, b: 0.3069217, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -629,7 +629,7 @@ MonoBehaviour:
   m_Text: "13. \uAC01 \uD300\uC6D0\uC740 \uC801\uC5B4\uB3C4 \uD558\uB098\uC758 3D
     \uC624\uBE0C\uC81D\uD2B8\uB97C \uC2A4\uD06C\uB9BD\uD2B8\uB85C \uAD6C\uD604\uD560
     \uC218 \uC788\uB294\uAC00? (Vertex, Triangle, Normal, UV)\r-  Diamond.script\r
-    - \uC2E0\uC18C\uBBFC\n\n"
+    - \uC2E0\uC18C\uBBFC\nPyramid.script - \uD669\uC9C0\uC6D0\n"
 --- !u!222 &61058701
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -5114,8 +5114,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 746603348}
-  m_LocalRotation: {x: -0.012136876, y: 0.98766136, z: 0.09990454, w: 0.11998687}
-  m_LocalPosition: {x: 763.51825, y: 31.539257, z: 312.56488}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1331, y: -129.66, z: 710}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -10093,8 +10093,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1576997155}
-  m_LocalRotation: {x: 0, y: 0.9932774, z: 0, w: 0.11575875}
-  m_LocalPosition: {x: 676.5, y: 829.14, z: 802.7}
+  m_LocalRotation: {x: 0.2787668, y: 0.3320617, z: 0.10316729, w: -0.89519864}
+  m_LocalPosition: {x: 1994.281, y: 104.38794, z: -75.427765}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
