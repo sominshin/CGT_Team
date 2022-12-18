@@ -2,8 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-// execute in edit mode
-[ExecuteInEditMode]
+
 public class PostEffects_Invert_Color : MonoBehaviour
 {
     Shader myShader;        // image effect shader 
